@@ -10,8 +10,8 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
-      { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-      { text: 'Docs', 
+      { text: '时间线', link: '/timeline/', icon: 'reco-date' },
+      { text: '关于我', 
         icon: 'reco-message',
         items: [
           { text: 'vuepress-reco', link: '/docs/theme-reco/' }
@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/learnNoob', icon: 'reco-github' }
         ]
       }
     ],
