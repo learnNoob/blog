@@ -1,10 +1,6 @@
 ---
 title: spring中的Bean
 date: 2022-1-21
-tags:
-- tag4 
-categories:
-- spring
 ---
 ## Bean与BeanDefinition的区别
 
